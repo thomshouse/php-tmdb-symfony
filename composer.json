@@ -13,9 +13,9 @@
         }
     ],
     "require": {
-        "symfony/symfony": "~2.3",
+        "symfony/symfony": "~3.0",
         "doctrine/doctrine-cache-bundle": "~1.0",
-        "php-tmdb/api": "~2.0"
+        "php-tmdb/api": "~3.0"
     },
     "autoload": {
         "psr-4": { "Tmdb\\SymfonyBundle\\": "" }
